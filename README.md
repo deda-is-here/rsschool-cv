@@ -1,2 +1,1 @@
-"# rsschool-cv" 
-"# rsschool-cv" 
+https://deda-is-here.github.io/rsschool-cv/cv
